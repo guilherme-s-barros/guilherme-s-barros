@@ -32,7 +32,7 @@ Atualmente, estou buscando **oportunidades** para aplicar meus conhecimentos, co
 ## 🌱 No momento, estou estudando:
 
 - **Java**, **Spring Boot** e **Nest.js**, para expandir minhas habilidades backend.
-- Revisando e aperfeiçoamento meus conhecimentos em **React.js** e **Next.js**.
+- Revisando e aperfeiçoando meus conhecimentos em **React.js** e **Next.js**.
 - Princípios de **UX/UI Design** para criação de interfaces intuitivas.
 
 ## 📖 Formação:
